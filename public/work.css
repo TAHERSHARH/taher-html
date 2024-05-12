@@ -1,0 +1,48 @@
+body{
+background-image: url(../work2.png);
+}
+
+a{
+    text-decoration: none;
+    color: #eee; 
+}
+
+header{
+    width: 1140px;
+    max-width: 80%;
+    margin: auto;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 100;
+}
+
+header a {
+margin-right: 40px;
+}
+
+
+
+  h1{
+    color: azure;
+  font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-shadow: 0 3px 3px #080505;
+    position: absolute;
+  left: 40%;
+  top: 30%;
+  }
+
+  h2{
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+      font-weight: 800;
+      letter-spacing: 1.4px;
+      text-shadow: 0 3px 3px #080505;
+      position: absolute;
+      top: 50%;
+      left: 12%;
+  }
+

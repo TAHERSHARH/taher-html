@@ -1,0 +1,72 @@
+body{
+    background-image: url(../projects2.png);
+}
+
+a{
+    text-decoration: none;
+    color: #eee; 
+}
+
+header{
+    width: 1140px;
+    max-width: 80%;
+    margin: auto;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 100;
+}
+
+header a {
+margin-right: 40px;
+}
+
+.image1{
+    float:right;
+    width: 25%;
+    position: absolute;
+    left: 60%;
+    top: 50%;
+    border-style: solid;
+  }
+  
+  .image2{
+    float:left;
+    width: 20%;
+    position: absolute;
+      left: 20%;
+      top: 50%;
+      border-style: solid;
+  }
+  
+  h1{
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      letter-spacing: 1.4px;
+      text-shadow: 0 3px 3px #080505;
+      position: absolute;
+    left: 35%;
+    top: 30%;
+  }
+
+  h2{
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      letter-spacing: 1.4px;
+      text-shadow: 0 3px 3px #080505;
+  }
+
+  .system{
+    position: absolute;
+    left: 22%;
+    top: 40%;
+  }
+
+  .db{
+    position: absolute;
+    left: 70%;
+    top: 40%;
+  }
